@@ -1,0 +1,16 @@
+form {
+  dispay:flex;
+}
+
+.review-container {
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.feedback {
+    background: #ee6e73;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
